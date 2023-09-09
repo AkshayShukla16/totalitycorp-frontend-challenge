@@ -42,26 +42,17 @@ Node.js (for the backend)
 
 ## Demo
 <p align="center">
-  <img src="/images/EC-1" alt="Img">
+  <img src="/images/EC-1.JPG" alt="Img">
 </p>
 <br><br>
 <p align="center">
- <img src="/images/EC-2" alt="Img">
+ <img src="/images/EC-2.JPG" alt="Img">
 </p>
 <br>
 <p align="center">
-  <img src="/images/EC-3" alt="Img">
+  <img src="/images/EC-3.JPG" alt="Img">
 </p>
-<br><br>
-<p align="center">
- <img src="/images/EC-4" alt="Img">
-</p>
-<br>
-<p align="center">
-  <img src="/images/EC-5" alt="Img">
-</p>
-<br><br>
-<p align="center">
+
  <img src="/images/EC-6" alt="Img">
 </p>
 <br>
