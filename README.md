@@ -3,13 +3,12 @@
 ## Description
 This is a full-stack Ecommerce web application that offers a seamless shopping experience for both buyers and sellers. Whether you're a shopper looking for the latest products or a seller wanting to expand your online presence, our platform has you covered.
 
-![App Demo](https://fine-erin-snapper-gear.cyclic.app/)
+![App Demo]
 
 ## Table of Contents
 
 - [Features](#features)
 - [Demo](#demo)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
@@ -42,5 +41,29 @@ MongoDB
 Node.js (for the backend)
 
 ## Demo
+<p align="center">
+  <img src="/images/EC-1" alt="Img">
+</p>
+<br><br>
+<p align="center">
+ <img src="/images/EC-2" alt="Img">
+</p>
+<br>
+<p align="center">
+  <img src="/images/EC-3" alt="Img">
+</p>
+<br><br>
+<p align="center">
+ <img src="/images/EC-4" alt="Img">
+</p>
+<br>
+<p align="center">
+  <img src="/images/EC-5" alt="Img">
+</p>
+<br><br>
+<p align="center">
+ <img src="/images/EC-6" alt="Img">
+</p>
+<br>
 
 
