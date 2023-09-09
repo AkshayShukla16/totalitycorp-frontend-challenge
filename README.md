@@ -9,7 +9,6 @@ This is a full-stack Ecommerce web application that offers a seamless shopping e
 
 - [Features](#features)
 - [Demo](#demo)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
 
 
@@ -27,11 +26,8 @@ This is a full-stack Ecommerce web application that offers a seamless shopping e
 Our Ecommerce web app is built with modern technologies, including React.js for the front-end, React Bootstrap for styling, React Router for seamless navigation, MongoDB for data storage, and Node.js for the backend. We are committed to providing a secure and enjoyable shopping experience for our users.
 
 
-## Usage
-Explain how to use your Ecommerce web app. Provide examples, code snippets, or screenshots to guide users through its functionality.
-
 ## Technologies Used
-List the technologies, frameworks, and libraries you used to build your project. For example:
+List the technologies, frameworks, and libraries  used to build  project. 
 
 HTML, CSS, JavaScript
 React.js
