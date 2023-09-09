@@ -52,6 +52,8 @@ Node.js (for the backend)
 <p align="center">
   <img src="/images/EC-3.JPG" alt="Img">
 </p>
+<br>
+<p align="center">
  <img src="/images/EC-4.JPG" alt="Img">
 </p>
 <br>
